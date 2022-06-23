@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx,g=rwx,o+rwx /dir0/dir1/dir2/hello
+chmod 777 /dir0/dir1/dir2/hello
