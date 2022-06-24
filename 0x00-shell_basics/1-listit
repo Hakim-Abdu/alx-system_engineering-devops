@@ -1,2 +1,1 @@
-#!/binbash
-ls
+#!/bin/bash
